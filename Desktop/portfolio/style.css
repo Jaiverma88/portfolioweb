@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+*{
+    margin: 0px;
+}
+.navbar
+{
+    background-color: lavender;
+    display: flex;
+    margin: 10px;
+    width: 200px;
+}
+.firststep
+{
+    display: flex;
+    background-color: pink; 
+    width: 100vw;
+}
+.about-content
+{
+    background-color: lightcoral;
+    display: flex;
+    padding: 100px;
+}
+.about-text
+{
+    background-color: rgb(244, 52, 129);
+    width: 1000px;
+    padding: 20px;
+}
